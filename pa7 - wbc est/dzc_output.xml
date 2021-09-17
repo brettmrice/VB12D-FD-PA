@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Collection MaxLevel="8" TileSize="256" Format="jpg" NextItemId="10" ServerFormat="Default" xmlns="http://schemas.microsoft.com/deepzoom/2009">
+  <Items>
+    <I Id="0" N="0" Source="dzc_output_images/img_4381.xml">
+      <Size Width="2850" Height="2850" />
+      <Viewport Width="3.0399999999999996" X="-0" Y="-0" />
+    </I>
+    <I Id="1" N="1" Source="dzc_output_images/img_4368.xml">
+      <Size Width="2850" Height="2850" />
+      <Viewport Width="3.0399999999999996" X="-2.0399999999999996" Y="-2.0399999999999996" />
+    </I>
+    <I Id="2" N="2" Source="dzc_output_images/img_4372.xml">
+      <Size Width="2850" Height="2850" />
+      <Viewport Width="3.0399999999999996" X="-2.0399999999999996" Y="-1.0199999999999998" />
+    </I>
+    <I Id="3" N="3" Source="dzc_output_images/img_4375.xml">
+      <Size Width="2850" Height="2850" />
+      <Viewport Width="3.0399999999999996" X="-2.0399999999999996" Y="-0" />
+    </I>
+    <I Id="4" N="4" Source="dzc_output_images/img_4376.xml">
+      <Size Width="2850" Height="2850" />
+      <Viewport Width="3.0399999999999996" X="-0" Y="-2.0399999999999996" />
+    </I>
+    <I Id="5" N="5" Source="dzc_output_images/img_4377.xml">
+      <Size Width="2850" Height="2850" />
+      <Viewport Width="3.0399999999999996" X="-0" Y="-1.0199999999999998" />
+    </I>
+    <I Id="6" N="6" Source="dzc_output_images/img_4378.xml">
+      <Size Width="2850" Height="2850" />
+      <Viewport Width="3.0399999999999996" X="-1.0199999999999998" Y="-0" />
+    </I>
+    <I Id="7" N="7" Source="dzc_output_images/img_4379.xml">
+      <Size Width="2850" Height="2850" />
+      <Viewport Width="3.0399999999999996" X="-1.0199999999999998" Y="-2.0399999999999996" />
+    </I>
+    <I Id="8" N="8" Source="dzc_output_images/img_4380.xml">
+      <Size Width="2850" Height="2850" />
+      <Viewport Width="3.0399999999999996" X="-1.0199999999999998" Y="-1.0199999999999998" />
+    </I>
+    <I Id="9" N="9" Source="dzc_output_images/img_4374.xml">
+      <Size Width="2850" Height="2850" />
+      <Viewport Width="1" X="-1" Y="-1" />
+    </I>
+  </Items>
+</Collection>

@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<SceneGraph version="1">
+  <AspectRatio>1</AspectRatio>
+  <BackgroundColor>000000</BackgroundColor>
+  <SceneNode>
+    <FileName>C:\Users\brett\Documents\Expression\Deep Zoom Composer Projects\PA 7 - WBC Est\Source Images\img_4381.jpg</FileName>
+    <x>0</x>
+    <y>0</y>
+    <Width>0.328947368421053</Width>
+    <Height>0.328947368421053</Height>
+    <ZOrder>1</ZOrder>
+  </SceneNode>
+  <SceneNode>
+    <FileName>C:\Users\brett\Documents\Expression\Deep Zoom Composer Projects\PA 7 - WBC Est\Source Images\img_4368.jpg</FileName>
+    <x>0.671052631578947</x>
+    <y>0.671052631578947</y>
+    <Width>0.328947368421053</Width>
+    <Height>0.328947368421053</Height>
+    <ZOrder>2</ZOrder>
+  </SceneNode>
+  <SceneNode>
+    <FileName>C:\Users\brett\Documents\Expression\Deep Zoom Composer Projects\PA 7 - WBC Est\Source Images\img_4372.jpg</FileName>
+    <x>0.671052631578947</x>
+    <y>0.335526315789474</y>
+    <Width>0.328947368421053</Width>
+    <Height>0.328947368421053</Height>
+    <ZOrder>3</ZOrder>
+  </SceneNode>
+  <SceneNode>
+    <FileName>C:\Users\brett\Documents\Expression\Deep Zoom Composer Projects\PA 7 - WBC Est\Source Images\img_4375.jpg</FileName>
+    <x>0.671052631578947</x>
+    <y>0</y>
+    <Width>0.328947368421053</Width>
+    <Height>0.328947368421053</Height>
+    <ZOrder>4</ZOrder>
+  </SceneNode>
+  <SceneNode>
+    <FileName>C:\Users\brett\Documents\Expression\Deep Zoom Composer Projects\PA 7 - WBC Est\Source Images\img_4376.jpg</FileName>
+    <x>0</x>
+    <y>0.671052631578947</y>
+    <Width>0.328947368421053</Width>
+    <Height>0.328947368421053</Height>
+    <ZOrder>5</ZOrder>
+  </SceneNode>
+  <SceneNode>
+    <FileName>C:\Users\brett\Documents\Expression\Deep Zoom Composer Projects\PA 7 - WBC Est\Source Images\img_4377.jpg</FileName>
+    <x>0</x>
+    <y>0.335526315789474</y>
+    <Width>0.328947368421053</Width>
+    <Height>0.328947368421053</Height>
+    <ZOrder>6</ZOrder>
+  </SceneNode>
+  <SceneNode>
+    <FileName>C:\Users\brett\Documents\Expression\Deep Zoom Composer Projects\PA 7 - WBC Est\Source Images\img_4378.jpg</FileName>
+    <x>0.335526315789474</x>
+    <y>0</y>
+    <Width>0.328947368421053</Width>
+    <Height>0.328947368421053</Height>
+    <ZOrder>7</ZOrder>
+  </SceneNode>
+  <SceneNode>
+    <FileName>C:\Users\brett\Documents\Expression\Deep Zoom Composer Projects\PA 7 - WBC Est\Source Images\img_4379.jpg</FileName>
+    <x>0.335526315789474</x>
+    <y>0.671052631578947</y>
+    <Width>0.328947368421053</Width>
+    <Height>0.328947368421053</Height>
+    <ZOrder>8</ZOrder>
+  </SceneNode>
+  <SceneNode>
+    <FileName>C:\Users\brett\Documents\Expression\Deep Zoom Composer Projects\PA 7 - WBC Est\Source Images\img_4380.jpg</FileName>
+    <x>0.335526315789474</x>
+    <y>0.335526315789474</y>
+    <Width>0.328947368421053</Width>
+    <Height>0.328947368421053</Height>
+    <ZOrder>9</ZOrder>
+  </SceneNode>
+</SceneGraph>
